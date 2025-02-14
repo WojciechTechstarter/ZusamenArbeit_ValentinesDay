@@ -1,0 +1,31 @@
+.mycontent {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f9f5ff;
+    background: linear-gradient(rgb(131, 22, 37), #804e4b, rgb(255, 255, 255));
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenttext {
+    color: #ffffff;
+    font-size: 8em;
+}
+
+.footer {
+    font-family: 'Poppins', sans-serif;
+    background-color: #a10e0e;
+    color: #d19e9e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pic {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
